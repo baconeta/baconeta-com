@@ -4,12 +4,11 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Joshua Pearson<br />
+Vantaa<br />
+FINLAND
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>joshuapearsonnz@gmail.com</u>
 
 ---
 
