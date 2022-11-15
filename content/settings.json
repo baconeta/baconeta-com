@@ -2,18 +2,19 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "title": "Joshua Pearson - Game Producer",
+    "titleTemplate": "%s · JP",
+    "description": "An aspiring game producer with a background in mathematics, game development and graphics.",
+    "author": "Joshua Pearson",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "I'm Joshua Pearson, an aspiring game producer currently working as a developer.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "behance": "#",
+      "github": "https://github.com/baconeta",
+      "medium": "#",
+      "itch": "https://baconeta.itch.io",
+      "linkedin": "https://www.linkedin.com/in/joshua-pearson-nz/",
+      "mail": "mailto:joshuapearsonnz@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -28,7 +29,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/cv.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
