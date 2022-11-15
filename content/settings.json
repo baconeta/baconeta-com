@@ -1,9 +1,9 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://www.baconeta.com/",
     "title": "Joshua Pearson - Game Producer",
-    "titleTemplate": "%s · JP",
+    "titleTemplate": "%s · Portfolio",
     "description": "An aspiring game producer with a background in mathematics, game development and graphics.",
     "author": "Joshua Pearson",
     "avatar": "../content/images/gatsby.png",
@@ -18,17 +18,17 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Joshua Pearson" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "Resume/CV",
         "url": "/cv.pdf"
       },
       "footer": [
