@@ -2,40 +2,67 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🕹 Ludum Dare 51",
+      "title": "Field o' Fiends",
+      "description": "A game made with a team of seven in a weekend from scratch. I have a written a blogpost about this experience.",
+      "tags": ["Team Project", "Game Jam", "Producer"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/fof.png",
+        "alt": "Field o' Fiends",
+        "linkTo": "https://baconeta.itch.io/field-o-fiends"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/baconeta/ludum-dare-51"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://baconeta.itch.io/field-o-fiends"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🕹 University Final Assignment",
+      "title": "Cat Burglar - No, really.",
+      "description": "A game made with a partner in a university assignment. This game got perfect marks for the course. I was the lead producer and programmer for this project.",
+      "tags": ["Team of 2", "Producer", "3D"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/cb.png",
+        "alt": "Cat Burglar - No, really.",
+        "linkTo": "https://baconeta.itch.io/the-cat-burglar-no-really"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/baconeta/cat-burglar"
+        },
+        {
+          "type": "external",
+          "url": "https://baconeta.itch.io/the-cat-burglar-no-really"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹 Ludum Dare 50",
+      "title": "Don't Die, Dodo.",
+      "description": "A game made with a team of six in a weekend from scratch. This was my first experience in full production mode, as well as mobile first development.",
+      "tags": ["Team Project", "Producer", "Game Jam"],
+      "image": {
+        "src": "../../images/ddd.png",
+        "alt": "Don't Die, Dodo.",
+        "linkTo": "https://baconeta.itch.io/dont-die-dodo"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/baconeta/ludum-dare-50"
+        },
+        {
+          "type": "external",
+          "url": "https://baconeta.itch.io/dont-die-dodo"
         }
       ]
     }
