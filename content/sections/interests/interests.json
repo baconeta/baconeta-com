@@ -3,7 +3,7 @@
     {
       "label": "2+ years of Unity/C#",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/games.png",
         "alt": ""
       }
     },
@@ -15,16 +15,9 @@
       }
     },
     {
-      "label": "Native English",
-      "image": {
-        "src": "../../images/united-kingdom.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "Mathematics graduate",
       "image": {
-        "src": "../../images/calculating.png",
+        "src": "../../images/math.png",
         "alt": ""
       }
     },
@@ -39,13 +32,6 @@
       "label": "CD/CI experience",
       "image": {
         "src": "../../images/integration.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Being the best",
-      "image": {
-        "src": "../../images/best-product.png",
         "alt": ""
       }
     }

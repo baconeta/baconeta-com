@@ -1,4 +1,10 @@
 module.exports = {
+  siteMetadata: {
+    title: `Joshua Pearson Producer Portfolio`,
+    description: `Video Game Production Portfolio site for Joshua Pearson`,
+    twitterUsername: `@baconeta`,
+    siteUrl: `https://www.baconeta.com`,
+  },
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
