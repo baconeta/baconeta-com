@@ -85,4 +85,6 @@ I went to sleep at around 5.30am and let the team do what they do best.
 
 I won't go into a lot of detail for the rest of the jam process, but I will share some highlights, snapshots and progress, in a sort of montage-y fashion.
 
-![Progress gif 1](../../images/18112022/gif1.gif "The very first progress gif we took.")
+<img src="https://i.imgur.com/cizwOES.gif" style="width:100%"  alt="The very first progress gif we took."/>
+<figure class="gatsby-resp-image-figure" style=""><figcaption class="gatsby-resp-image-figcaption"><p>The very first progress gif we took</p></figcaption></figure>
+
