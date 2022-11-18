@@ -10,35 +10,42 @@
     {
       "label": "Experienced leader",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/leadership.png",
         "alt": ""
       }
     },
     {
       "label": "Native English",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/united-kingdom.png",
         "alt": ""
       }
     },
     {
       "label": "Mathematics graduate",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/calculating.png",
         "alt": ""
       }
     },
     {
       "label": "Agile/Scrum certified",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/agile.png",
         "alt": ""
       }
     },
     {
       "label": "CD/CI experience",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/integration.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Being the best",
+      "image": {
+        "src": "../../images/best-product.png",
         "alt": ""
       }
     }
