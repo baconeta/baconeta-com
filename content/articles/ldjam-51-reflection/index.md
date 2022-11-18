@@ -1,10 +1,10 @@
 ---
-title: "A late reflection of my boldest game jam challenge so far."
-description: "A reflection and discussion of my experience leading a team through ludum dare 51 held in October 2022 online, making a game in just 72 hours, and more."
+title: "My boldest game jam challenge so far."
+description: "A discussion of my experience leading a team through ludum dare 51 held in October 2022 online, making a game in just 72 hours, and more."
 date: "2022-11-18"
 banner:
   src: "../../images/18112022/img0.png"
-  alt: "Reflecting on a recent game jam experience"
+  alt: "Discussing a recent game jam experience"
 categories:
   - "Production"
   - "Ludum Dare"
@@ -12,7 +12,7 @@ categories:
 keywords:
   - "producer"
   - "development"
-  - "reflection"
+  - "process"
   - "ldjam"
 ---
 
@@ -51,6 +51,8 @@ We also developed an unholy obsession with the "[it's corn](https://www.youtube.
 
 ![miro pre plan process](../../images/18112022/img7.png "We pre-planned a few of the potential themes in advance")
 
+Oh, and a particular focus this jam was on mobile playability. So that influenced a lot of UI/UX and design choices (lots of new learnings here too).
+
 ## Jam time - Day one
 The weekend came around super quickly, and the week of voting ended with the announcement of the theme at 1am in my timezone.
 
@@ -61,7 +63,7 @@ _Sigh_. It was about everyone's least favourite of the possible themes. But we i
 ![miro speed theme ideas](../../images/18112022/img8.png "Speed round theme ideas")
 
 Eventually we put our pens down and started chatting - eventually diving deep into the idea of a forest that changes between day and night, and this occurs every 10 seconds.
-We already had considered the possibility of a rogue lite / hack 'n slash style game so merging that idea with the target genre was not so difficult..
+We already had considered the possibility of a rogue lite / hack 'n slash style game so merging that idea with the target genre was not so difficult…
 
 Then we got to work.
 
@@ -77,7 +79,7 @@ I also would love to have been able to go one by one through everyone cyclically
 ideas and early developments were all lining up, and not enough time on ensuring that everyone was equally able to contribute. 
 
 It might be less that I failed, and more that I learnt a lot from this first few hours. 
-I'll come back to reflecting deeper on this later.
+I'll come back to reflecting deeper on this in another blog post.
 
 I went to sleep at around 5.30am and let the team do what they do best.
 
@@ -88,3 +90,6 @@ I won't go into a lot of detail for the rest of the jam process, but I will shar
 <img src="https://i.imgur.com/cizwOES.gif" style="width:100%"  alt="The very first progress gif we took."/>
 <figure class="gatsby-resp-image-figure" style=""><figcaption class="gatsby-resp-image-figcaption"><p>The very first progress gif we took</p></figcaption></figure>
 
+![first mid game interface image](../../images/18112022/img1.png "First mid game interface image")
+<img src="https://i.imgur.com/PU1rrHA.gif" style="width:100%"  alt="... and it's first implementation."/>
+<figure class="gatsby-resp-image-figure" style=""><figcaption class="gatsby-resp-image-figcaption"><p>... and it's first implementation.</p></figcaption></figure>
