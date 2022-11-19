@@ -87,9 +87,67 @@ I went to sleep at around 5.30am and let the team do what they do best.
 
 I won't go into a lot of detail for the rest of the jam process, but I will share some highlights, snapshots and progress, in a sort of montage-y fashion.
 
-<img src="https://i.imgur.com/cizwOES.gif" style="width:100%"  alt="The very first progress gif we took."/>
+<img src="https://i.imgur.com/cizwOES.gif" style="width:100%"  alt="The very first progress gif we took"/>
 <figure class="gatsby-resp-image-figure" style=""><figcaption class="gatsby-resp-image-figcaption"><p>The very first progress gif we took</p></figcaption></figure>
 
 ![first mid game interface image](../../images/18112022/img1.png "First mid game interface image")
-<img src="https://i.imgur.com/PU1rrHA.gif" style="width:100%"  alt="... and it's first implementation."/>
-<figure class="gatsby-resp-image-figure" style=""><figcaption class="gatsby-resp-image-figcaption"><p>... and it's first implementation.</p></figcaption></figure>
+<img src="https://i.imgur.com/PU1rrHA.gif" style="width:100%"  alt="... and it's first implementation"/>
+<figure class="gatsby-resp-image-figure" style=""><figcaption class="gatsby-resp-image-figcaption"><p>... and it's first implementation</p></figcaption></figure>
+
+Getting the mobile stuff ready was the job of our talented developer Bray, who also handled some of the more advanced stuff, like the lighting and enemy logic in the project.
+
+![the player and enemies got a background](../../images/18112022/img3.png "Our player, the base background and designing the enemy AI")
+
+<img src="https://imgur.com/aOFWOoB.gif" style="width:100%"  alt="mobile UI analog sticks"/>
+<figure class="gatsby-resp-image-figure" style=""><figcaption class="gatsby-resp-image-figcaption"><p>Adding basic animations, some mobile joysticks and testing the size and layout</p></figcaption></figure>
+
+![enemy first pass](../../images/18112022/img5.png "Finally we had some enemies... although they were a little big at first")
+
+Meanwhile, James who handled most of the high scores and design elements around that part, put together a name generator. Fun!
+
+![name generator 1](../../images/18112022/img4.png "First pass of the name generation and main menu UI")
+
+At this point, we moved onto crunch mode - we were over halfway through the jam, most of the art assets were coming in thick and fast and it was time to get down to business.
+It's about this time that I start rolling up my sleeves and going in. I had to brutally cull a lot of things that people wanted, and manage some challenges we faced at this point.
+
+#### Notable challenges
+
+1. We figured out about halfway through the jam, once we had received a first pass of nearly all art assets, that we were looking at the character too far from the side from our original idea. Well, for some people's original ideas. We initially had envisioned a very top down feel, but we had to scope and redesign with the approach. This was mostly my fault - communications between different "departments" as such was my job. So managing expectations and reality checking the people who wanted these changes was up to me. It was far too late to expect any asset redesign.
+2. Solving issues with the WebGL builds for mobile accessibility was an absolute mission. It would almost be less work (learnt post jam) to just publish a rubbish and buggy apk on the play store, since the Android builds were always going to run nicer than a webgl build on a mobile phone... Lesson learnt.
+3. Adding new features that we had planned late in the jam session is never a good idea. Everyone knows this - even me, who had culled about 10 things already. But it was vital we had one particular element which was essentially required to make the game fun, done. This was a core feature for our game, and we left it much too late... That feature was the boss.
+
+## Jam wrap up
+
+A couple of the others who had not yet been too worn out to keep going, and I, went into extreme crunch mode in the final 12 hours of the jam. This included some speed 
+adding of the boss system, UI tidy up, wave to wave systems, properly scoring mechanics, game design tuning, and more. I could go on but if you're still reading, you're probably getting bored now.
+
+Here are some images to show the last few elements coming together.
+
+![menu billboard](../../images/18112022/img9.png "Final billboards added to menu systems")
+
+
+A massive shout-out to Tomas and Tanya for making the critters look this damn good. Look at the creepy one jump!
+<img src="https://gyazo.com/743f3aaca0b7e3927d4d393dab38a4b0.gif" style="width:100%"  alt="enemy animations"/>
+<figure class="gatsby-resp-image-figure" style=""><figcaption class="gatsby-resp-image-figcaption"><p>Enemy animations in gameplay mode</p></figcaption></figure>
+
+<img src="https://i.gyazo.com/306f9ee3193b695d9092a12ccd8cf98a.gif" style="width:100%"  alt="night and day"/>
+<figure class="gatsby-resp-image-figure" style=""><figcaption class="gatsby-resp-image-figcaption"><p>The night and day final pass ('turned up to 11 to show it off')</p></figcaption></figure>
+
+And the gorgeous king himself, The Colonel.
+
+
+<img src="https://gyazo.com/73e7ffcd3fcad5e717c4cd55b62fd502.gif" style="width:100%"  alt="The Colonel"/>
+<figure class="gatsby-resp-image-figure" style=""><figcaption class="gatsby-resp-image-figcaption"><p>The Colonel in all his glory finally implemented in game</p></figcaption></figure>
+
+So 100 branches and pull requests, 72 hours, and maybe 15 energy drinks (each) later, we made it to the end.
+
+## So how did we do?
+
+Let's just say this jam post is very long, not super detailed or technical, and mostly put here to showcase the hard work everyone else put into the game while I tried to keep things
+from falling off a cliff. Did I succeed? well - the game is done, and most of us are happy with it - but you'll have to read part two to see:
+
+- How did we do in the landscape of ludum dare?
+- How did I do, particularly looking at the production elements?
+- What went well and what can I do better next time?
+
+Moikka!
