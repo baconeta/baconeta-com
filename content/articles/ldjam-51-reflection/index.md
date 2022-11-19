@@ -1,6 +1,6 @@
 ---
-title: "My boldest game jam challenge so far."
-description: "A discussion of my experience leading a team through ludum dare 51 held in October 2022 online, making a game in just 72 hours, and more."
+title: "Our boldest game jam challenge so far."
+description: "A discussion of the process of participating in ludum dare 51 held in October 2022, making a game in just 72 hours, and more."
 date: "2022-11-18"
 banner:
   src: "../../images/18112022/img0.png"
@@ -8,7 +8,6 @@ banner:
 categories:
   - "Production"
   - "Ludum Dare"
-  - "Game Jam"
 keywords:
   - "producer"
   - "development"
