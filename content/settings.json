@@ -21,8 +21,8 @@
     "logo": { "text": "Joshua Pearson" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
+        { "label": "About", "url": "/#about" },
         { "label": "Projects", "url": "/#projects" },
         { "label": "Contact", "url": "/#contact" }
       ],
