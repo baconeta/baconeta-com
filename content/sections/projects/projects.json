@@ -2,6 +2,28 @@
   "projects": [
     {
       "visible": true,
+      "category": "🕹 Koia Jam 2022",
+      "title": "Web of Lies",
+      "description": "A prototype crafted in 48 hours in a small team, designed as game to represent the spread of misinformation and fake news.",
+      "tags": ["Small Team", "Game Jam", "Producer"],
+      "image": {
+        "src": "../../images/wol.png",
+        "alt": "Web of Lies",
+        "linkTo": "https://baconeta.itch.io/web-of-lies"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Cookiezznz/KoiaJam2022"
+        },
+        {
+          "type": "external",
+          "url": "https://baconeta.itch.io/web-of-lies"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🕹 Ludum Dare 51",
       "title": "Field o' Fiends",
       "description": "A game made with a team of seven in a weekend from scratch. I have a written a blog post about this experience.",
@@ -26,7 +48,7 @@
       "visible": true,
       "category": "🕹 University Final Assignment",
       "title": "Cat Burglar - No, really.",
-      "description": "A game made with a partner in a university assignment. This game got perfect marks for the course. I was the lead producer and programmer for this project.",
+      "description": "A game made with a partner in a university assignment. This game was awarded perfect marks for the course. I was the lead producer and programmer.",
       "tags": ["Team of 2", "Producer", "3D"],
       "image": {
         "src": "../../images/cb.png",
