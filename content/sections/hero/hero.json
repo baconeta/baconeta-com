@@ -10,10 +10,10 @@
   },
   "title": "I'm Josh",
   "subtitle": {
-    "prefix": "A game producer with a background in leadership and game programming and development.",
+    "prefix": "A game producer with a background in leadership, game programming, and development.",
     "suffix": ""
   },
-  "description": "Check out my projects and posts below, or see my social media links.",
+  "description": "Check out my projects below, or, connect with me through my social media links.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
