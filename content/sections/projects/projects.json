@@ -13,14 +13,6 @@
       },
       "links": [
         {
-          "type": "google-play",
-          "url": "https://play.google.com/store/apps/details?id=com.rovio.dream&hl=en&gl=US"
-        },
-        {
-          "type": "apple",
-          "url": "https://apps.apple.com/us/app/angry-birds-dream-blast/id1432579280"
-        },
-        {
           "type": "external",
           "url": "https://www.angrybirds.com/games/angry-birds-dream-blast/"
         }
