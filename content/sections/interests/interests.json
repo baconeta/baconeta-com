@@ -1,7 +1,7 @@
 {
   "interests": [
     {
-      "label": "2+ years of Unity/C#",
+      "label": "3+ years of Unity/C#",
       "image": {
         "src": "../../images/games.png",
         "alt": ""
@@ -34,11 +34,18 @@
         "src": "../../images/integration.png",
         "alt": ""
       }
+    },
+    {
+      "label": "Live games development",
+      "image": {
+        "src": "../../images/games.png",
+        "alt": ""
+      }
     }
   ],
   "button": {
     "visible": true,
-    "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "label": "+ See more",
+    "initiallyShownInterests": 4
   }
 }

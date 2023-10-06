@@ -2,10 +2,80 @@
   "projects": [
     {
       "visible": true,
+      "category": "🕹 Angry Birds - Dream Blast",
+      "title": "Dream Blast",
+      "description": "A Live game published and developed by Rovio Entertainment, I am a primary programmer working on the live development of events and new features",
+      "tags": ["Professional", "Live Game", "Programming"],
+      "image": {
+        "src": "../../images/dream-blast.png",
+        "alt": "Angry Birds Dream Blast",
+        "linkTo": "https://www.angrybirds.com/games/angry-birds-dream-blast/"
+      },
+      "links": [
+        {
+          "type": "google-play",
+          "url": "https://play.google.com/store/apps/details?id=com.rovio.dream&hl=en&gl=US"
+        },
+        {
+          "type": "apple",
+          "url": "https://apps.apple.com/us/app/angry-birds-dream-blast/id1432579280"
+        },
+        {
+          "type": "external",
+          "url": "https://www.angrybirds.com/games/angry-birds-dream-blast/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹 Ludum Dare 54",
+      "title": "Setting the Stage",
+      "description": "A musical puzzle game created in 72 hours, based on the theme of 'Limited Space'.",
+      "tags": ["Team Project", "Game Jam", "Producer", "Programming"],
+      "image": {
+        "src": "../../images/sts.png",
+        "alt": "Setting the Stage",
+        "linkTo": "https://baconeta.itch.io/setting-the-stage"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/baconeta/ludum-dare-54"
+        },
+        {
+          "type": "external",
+          "url": "https://baconeta.itch.io/setting-the-stage"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹 Ludum Dare 53",
+      "title": "Styx and Stones",
+      "description": "An underworld narrative created in 72 hours, based on the theme of 'Delivery'.",
+      "tags": ["Team Project", "Game Jam", "Producer", "Programming"],
+      "image": {
+        "src": "../../images/sas.png",
+        "alt": "Styx and Stones",
+        "linkTo": "https://baconeta.itch.io/styx-and-stones"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/baconeta/ludum-dare-53"
+        },
+        {
+          "type": "external",
+          "url": "https://baconeta.itch.io/styx-and-stones"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🕹 Koia Jam 2022",
       "title": "Web of Lies",
       "description": "A prototype crafted in 48 hours in a small team, a game designed to represent the spread of misinformation and fake news.",
-      "tags": ["Small Team", "Game Jam", "Producer"],
+      "tags": ["Small Team", "Game Jam", "Producer", "Programming"],
       "image": {
         "src": "../../images/wol.png",
         "alt": "Web of Lies",
@@ -49,7 +119,7 @@
       "category": "🕹 University Final Assignment",
       "title": "Cat Burglar - No, really.",
       "description": "A game made with a partner in a university assignment. This game was awarded perfect marks for the course. I was the lead producer and programmer.",
-      "tags": ["Team of 2", "Producer", "3D"],
+      "tags": ["Team of 2", "Producer", "3D", "Programming"],
       "image": {
         "src": "../../images/cb.png",
         "alt": "Cat Burglar - No, really.",
@@ -71,7 +141,7 @@
       "category": "🕹 Ludum Dare 50",
       "title": "Don't Die, Dodo.",
       "description": "A game made with a team of six in a weekend from scratch. This was my first experience in full production mode, as well as mobile first development.",
-      "tags": ["Team Project", "Producer", "Game Jam"],
+      "tags": ["Team Project", "Producer", "Game Jam", "Programming"],
       "image": {
         "src": "../../images/ddd.png",
         "alt": "Don't Die, Dodo.",
