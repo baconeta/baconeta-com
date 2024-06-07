@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Joshua Pearson Producer Portfolio`,
-    description: `Video Game Production Portfolio site for Joshua Pearson`,
+    title: `Joshua Villgren Producer Portfolio`,
+    description: `Video Game Production Portfolio site for Joshua Villgren`,
     twitterUsername: `@baconeta`,
     siteUrl: `https://www.baconeta.com`,
   },
@@ -12,8 +12,8 @@ module.exports = {
         siteUrl: "https://baconeta.com/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
-          siteName: "Joshua Pearson", // Used in manifest.json
-          shortName: "Joshua Pearson", // Used in manifest.json
+          siteName: "Joshua Villgren", // Used in manifest.json
+          shortName: "Joshua Villgren", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
           themeColor: "#000000", // Used in manifest.json

@@ -2,23 +2,23 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://www.baconeta.com/",
-    "title": "Joshua Pearson - Game Producer",
+    "title": "Joshua Villgren - Game Producer",
     "titleTemplate": "%s · Portfolio",
-    "description": "An aspiring game producer with a background in mathematics, game development and graphics.",
-    "author": "Joshua Pearson",
+    "description": "A game producer with a background in leadership, mathematics, and game development.",
+    "author": "Joshua Villgren",
     "avatar": "../content/images/gatsby.png",
-    "bio": "I'm Joshua Pearson, an aspiring game producer currently working as a developer.",
+    "bio": "I'm Joshua Villgren, an aspiring game producer currently working as a developer.",
     "social": {
       "behance": "#",
       "github": "https://github.com/baconeta",
       "medium": "#",
       "itch": "https://baconeta.itch.io",
-      "linkedin": "https://www.linkedin.com/in/joshua-pearson-nz/",
-      "mail": "mailto:joshuapearsonnz@gmail.com"
+      "linkedin": "https://www.linkedin.com/in/joshua-villgren/",
+      "mail": "mailto:joshuavillgren@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Joshua Pearson" },
+    "logo": { "text": "Joshua Villgren" },
     "navigation": {
       "header": [
         { "label": "Blog", "url": "/blog" },

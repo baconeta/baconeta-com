@@ -4,11 +4,11 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-Joshua Pearson<br />
-Vantaa<br />
-FINLAND
+Joshua Villgren<br />
+Wellington<br />
+NEW ZEALAND
 
-E-Mail Address: <u>joshuapearsonnz@gmail.com</u>
+E-Mail Address: <u>joshuavillgren@gmail.com</u>
 
 ---
 
