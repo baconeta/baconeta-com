@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/square.jpg"
+imageSrc: "../../images/rectangle.jpg"
 imageAlt: "Joshua Villgren"
 ---
 
