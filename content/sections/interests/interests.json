@@ -1,7 +1,7 @@
 {
   "interests": [
     {
-      "label": "3+ years of Unity/C#",
+      "label": "3+ years in Unity",
       "image": {
         "src": "../../images/games.png",
         "alt": ""
@@ -39,6 +39,20 @@
       "label": "Live games development",
       "image": {
         "src": "../../images/games.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "2+ years in Unreal",
+      "image": {
+        "src": "../../images/games.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Jira boss",
+      "image": {
+        "src": "../../images/jira.png",
         "alt": ""
       }
     }

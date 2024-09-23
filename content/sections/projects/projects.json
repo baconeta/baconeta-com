@@ -2,6 +2,24 @@
   "projects": [
     {
       "visible": true,
+      "category": "🕹 Void Interactive - Ready or Not",
+      "title": "Ready or Not",
+      "description": "A game published and developed by Void Interactive. I am a game producer working on the future updates and releases for the game post launch.",
+      "tags": ["Professional", "DLC", "Production", "Remote"],
+      "image": {
+        "src": "../../images/ron.jpg",
+        "alt": "Ready or Not game header",
+        "linkTo": "https://store.steampowered.com/app/1144200/Ready_or_Not/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://store.steampowered.com/app/1144200/Ready_or_Not/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🕹 Angry Birds - Dream Blast",
       "title": "Dream Blast",
       "description": "A game published and developed by Rovio Entertainment. I am a programmer working on the live development of events and new features",
