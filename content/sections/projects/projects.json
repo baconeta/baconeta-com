@@ -25,7 +25,7 @@
       "description": "A unique card/racing game created as part of the Ludum Dare 56 game jam in a fully in person team. I worked as the producer and programmer.",
       "tags": ["Game Jam", "Programming", "Producer", "Team Project"],
       "image": {
-        "src": "../../images/ddss.jpg",
+        "src": "../../images/ddss.png",
         "alt": "Deck Derby game header",
         "linkTo": "https://baconeta.itch.io/deck-derby"
       },
