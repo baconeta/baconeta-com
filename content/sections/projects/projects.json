@@ -5,11 +5,29 @@
       "category": "🕹 Void Interactive - Ready or Not",
       "title": "Ready or Not",
       "description": "A game published and developed by Void Interactive. I am a game producer working on the future updates and releases for the game post launch.",
-      "tags": ["Professional", "DLC", "Production", "Remote"],
+      "tags": ["Professional", "DLC", "Producer", "Remote"],
       "image": {
         "src": "../../images/ron.jpg",
         "alt": "Ready or Not game header",
         "linkTo": "https://store.steampowered.com/app/1144200/Ready_or_Not/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://store.steampowered.com/app/1144200/Ready_or_Not/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹 Ludum Dare 56",
+      "title": "Deck Derby: Sluglord's Speedway",
+      "description": "A unique card/racing game created as part of the Ludum Dare 56 game jam in a fully in person team. I worked as the producer and programmer.",
+      "tags": ["Game Jam", "Programming", "Producer", "Team Project"],
+      "image": {
+        "src": "../../images/ddss.jpg",
+        "alt": "Deck Derby game header",
+        "linkTo": "https://baconeta.itch.io/deck-derby"
       },
       "links": [
         {
