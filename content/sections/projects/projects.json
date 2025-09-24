@@ -2,6 +2,24 @@
   "projects": [
     {
       "visible": true,
+      "category": "🕹 Baconeta Studios - Setting the Stage (Demo)",
+      "title": "Setting the Stage",
+      "description": "A demo/concept for the remake of our very loved Ludum Dare entry from 2023",
+      "tags": ["Hobby", "Semi-Professional", "Producer", "Remote", "Programmer"],
+      "image": {
+        "src": "../../images/sts_baconetastudios.png",
+        "alt": "Setting the Stage game header",
+        "linkTo": "https://baconetastudios.com/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://baconetastudios.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🕹 Void Interactive - Ready or Not",
       "title": "Ready or Not",
       "description": "A game published and developed by Void Interactive. I am a game producer working on the future updates and releases for the game post launch, including the very successful console port release.",
